@@ -11,9 +11,9 @@ First, open CMD and execute this:
 
 If it did not work, that means pip is not in your path. Try executing these commands:
 
-```python -m pip install discord```
-```py -m pip install discord```
-```python3 -m pip install discord```
+```python -m pip install py-cord```
+```py -m pip install py-cord```
+```python3 -m pip install py-cord```
 
 <h2>Setupping the bot</h2>
 After that, prepare your environment and put your token to config.json. If you are using a platform like replit without any subscriptions which has your project public, then put it in an .env file!
