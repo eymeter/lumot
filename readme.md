@@ -23,4 +23,5 @@ After that, prepare your environment and put your token to config.json. <br>If y
 <br>Reminder - You have to be the owner of the server to do this.</br>
 <br>After setupping your bot, use /edit command to give your bot a name.</br>
 <br>To make your staff members be able to edit the bot, use /addstaff command to add staff role names. Use /delstaff if you did something wrong.</br>
+<br>Good job! Now, write /activate to active your bot. You can deactivate it by /deactivate later.</br>
 <br>Now, after setupping, just write something like "im good", and it will reply with your customized messages!\n</br>
