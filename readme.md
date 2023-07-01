@@ -1,4 +1,4 @@
-<img src="https://badgen.net/badge/Github/Lumot/blue?icon=Github">
+<img src="https://badgen.net/badge/Github/Lumot/blue?icon=github">
 
 <h1>Lumot</h1>
 Lumot is a funny bot made for fun. It is basically "Dad Bot" with customization settings.
