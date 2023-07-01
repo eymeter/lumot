@@ -11,16 +11,16 @@ First, open CMD and execute this:
 
 If it did not work, that means pip is not in your path. Try executing these commands:
 
-```python -m pip install py-cord```
-```py -m pip install py-cord```
-```python3 -m pip install py-cord```
+<br>```python -m pip install py-cord```</br>
+<br>```py -m pip install py-cord```</br>
+<br>```python3 -m pip install py-cord```</br>
 
 <h2>Setupping the bot</h2>
-After that, prepare your environment and put your token to config.json. \nIf you are using a platform like replit without any subscriptions which has your project public, then put it in an .env file!
-\nThen just run main.py, your bot is ready!
+After that, prepare your environment and put your token to config.json. <br>If you are using a platform like replit without any subscriptions which has your project public, then put it in an .env file!</br>
+<br>Then just run main.py, your bot is ready!</br>
 
 <h2>Customization</h2>
-Reminder - You have to be the owner of the server to do this.\n
-After setupping your bot, use /edit command to give your bot a name.\n
-To make your staff members be able to edit the bot, use /addstaff command to add staff role names. Use /delstaff if you did something wrong.\n
-Now, after setupping, just write something like "im good", and it will reply with your customized messages!\n
+<br>Reminder - You have to be the owner of the server to do this.</br>
+<br>After setupping your bot, use /edit command to give your bot a name.</br>
+<br>To make your staff members be able to edit the bot, use /addstaff command to add staff role names. Use /delstaff if you did something wrong.</br>
+<br>Now, after setupping, just write something like "im good", and it will reply with your customized messages!\n</br>
